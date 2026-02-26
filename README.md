@@ -18,7 +18,7 @@ Projekt obejmuje zaprojektowanie i implementację relacyjnej bazy danych dla fir
 
 ## Dokumentacja
 
-Pełna dokumentacja: [dokumentacja projektu.pdf](dokumentacja%projektu.pdf)
+Pełna dokumentacja: [dokumentacja projektu.pdf](dokumentacja%20projektu.pdf)
 
 ## Schemat bazy danych
 
