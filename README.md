@@ -14,7 +14,7 @@ Pełna treść zadania: [Projekt PBD 2025/2026](Projekt%20PBD%202025_2026.pdf)
 
 ## Opis
 
-Projekt obejmuje zaprojektowanie i implementację relacyjnej bazy danych dla firmy produkcyjnej w **MS SQL Server**. Baza obsługuje zarządzanie produktami, częściami, zamówieniami, produkcją, magazynem, dostawami oraz sprzedażą.
+Projekt obejmuje zaprojektowanie i implementację relacyjnej bazy danych dla firmy produkcyjnej w **MS SQL Server**. Baza obsługuje zarządzanie produktami, częściami, zamówieniami, produkcją, magazynem, dostawami i sprzedażą.
 
 ## Dokumentacja
 
